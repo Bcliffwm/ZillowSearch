@@ -1,1 +1,0 @@
-API_key = 'X1-ZWz173ry7n09vv_aypsc'
