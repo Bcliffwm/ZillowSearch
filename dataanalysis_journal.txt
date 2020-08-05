@@ -1,8 +1,3 @@
-Project Purpose: To ultimately find the most important factor in determining the probabilities of any real estate being sold as well as other extraneous
-factors leading to the final sale price of a given piece of real estate. This project is intended for those who want insights into the real 
-estate market for either personal or practical purposes. For example, one might have an occupation as a real-estate agent and wants to know 
-the market's preferences based on a quantitative approach. 
-
 Entries in this document will not be entered by date, rather by its relevancy to the files that comprise of this entire real estate analysis. TODO sections will either be deleted or have an
 asterisk in front of it to signify that it is no longer relevant or it has been completed.
 
